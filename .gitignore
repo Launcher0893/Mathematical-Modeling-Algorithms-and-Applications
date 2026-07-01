@@ -1,0 +1,70 @@
+# MATLAB
+*.asv
+*.m~
+*.mat
+*.mexa64
+*.mexmaci64
+*.mexw64
+*.mexglx
+*.slxc
+*.slx~
+*.fig
+*.p
+
+# MEX compiled files
+*.mex*
+
+# Simulink cache & codegen
+slprj/
+codegen/
+slbuild/
+*.slxc
+
+# MATLAB App Designer
+*.mlappinstall
+*.mltbx
+
+# LaTeX auxiliary files (for reports)
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# Python (if used with MATLAB)
+__pycache__/
+*.pyc
+*.pyo
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+Mathematical-Modeling-Algorithms-and-Applications.code-workspace
+
+# Temporary files
+*.tmp
+*.temp
+
